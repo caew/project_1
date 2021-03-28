@@ -4,7 +4,11 @@ function Home  () {
     return (
         <div>
             <h4>CAEW IS TOP 10</h4>
+
+            <a href="/sobre">Acessar Página Sobre</a>
+
             <Contador />
+            
         </div>
     )
 }
@@ -22,5 +26,6 @@ function Contador () {
         </div>
      )
 }
+
 
 export default Home;
