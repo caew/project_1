@@ -5,13 +5,13 @@ function Sobre  () {
             <h1>Sobre</h1>
             
             <Link href="/">
-         
                 <a>Acessar Página Home</a>
-                </Link>
 
-            </div>)
+            </Link>
+
+    </div>)
 }
 
 
 
-export default Sobre;
+export default Sobre
